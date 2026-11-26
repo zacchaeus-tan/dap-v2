@@ -1,0 +1,21 @@
+# Data & EDA
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+
+# Modelling
+torch
+transformers
+accelerate
+datasets
+scikit-learn
+
+# Topic modelling
+bertopic
+umap-learn
+hdbscan
+
+# Notebooks
+jupyter

@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Model checkpoints written by the training notebooks (large, regenerable)
+goemotions_roberta/
+goemotions_bert/
+my_goemotions_model*/
